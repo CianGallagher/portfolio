@@ -1,6 +1,6 @@
 A responsive portfolio website to display some of my projects!
 
-https://github.com/CianGallagher/portfolio
+https://ciangallagher.github.io/portfolio/
 
 Technologies used:
 	
