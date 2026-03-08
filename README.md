@@ -1,6 +1,6 @@
 # Cian Gallagher — Portfolio
 
-Personal portfolio website built with vanilla HTML, CSS, and JavaScript. Hosted on GitHub Pages.
+Personal portfolio website built with vanilla HTML and CSS. No JavaScript, no frameworks. Hosted on GitHub Pages.
 
 **Live site:** [ciangallagher.github.io/portfolio](https://ciangallagher.github.io/portfolio)
 
@@ -14,7 +14,7 @@ I'm a fund risk and data analytics professional working in Irish financial servi
 
 ## Stack
 
-- HTML / CSS / JavaScript — no frameworks, no dependencies
+- HTML / CSS only — no JavaScript, no frameworks, no dependencies
 - Google Fonts — Bebas Neue, Crimson Pro, DM Mono
 - Deployed via GitHub Pages
 
